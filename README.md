@@ -11,8 +11,6 @@ Atualmente, meus estudos estão focados em:
 * **JavaScript (Node.js):** Para construir aplicações web e servidores.
 * **Python:** Para automação, análise de dados e desenvolvimento back-end.
 * **C:** Para entender a base da programação e o funcionamento de sistemas.
-* **C#:** Para desenvolver aplicações robustas e escaláveis.  
-* **.NET:** Para explorar o ecossistema Microsoft e criar soluções completas.
 ---
 
 ### 🌱 Meus primeiros projetos
