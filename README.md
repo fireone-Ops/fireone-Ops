@@ -42,6 +42,8 @@ Atualmente, meus estudos estão focados em:
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fireone-Ops&theme=tokyonight&locale=pt-BR)](https://git.io/streak-stats)
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireone-Ops&theme=tokyonight)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fireone-Ops&theme=tokyonight)
+
+
