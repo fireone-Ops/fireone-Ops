@@ -42,7 +42,7 @@ Atualmente, meus estudos estão focados em:
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-    <img align="left" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=fireone-Ops&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    <img align="left" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireone-Ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<img align="left" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=fireone-Ops&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img align="left" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireone-Ops&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+<br clear="left"/>
