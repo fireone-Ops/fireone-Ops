@@ -1,31 +1,62 @@
 # Olá, sou Davi 👋
 
-Sou um programador iniciante, apaixonado por tecnologia e focado em construir uma carreira no desenvolvimento. Estou sempre em busca de novos desafios e adoro transformar ideias em código.
+💻 Desenvolvedor em formação apaixonado por tecnologia, back-end e cibersegurança.  
+Atualmente estou focado no ecossistema Python, estudando desenvolvimento de APIs, arquitetura de sistemas e automações.
 
 ---
 
-### 🚀 O que eu estou aprendendo
+## 🚀 Tecnologias e estudos atuais
 
-Atualmente, meus estudos estão focados em:
+### Back-end
+- Python
+- Django
+- Django REST Framework
 
-* **JavaScript (Node.js):** Para construir aplicações web e servidores.
-* **Python:** Para automação, análise de dados e desenvolvimento back-end.
-* **C:** Para entender a base da programação e o funcionamento de sistemas.
----
-
-### 🌱 Meus primeiros projetos
-
-
-* **Controle de Fluxo**
-    * **Descrição:** Um script em **JavaScript** e **Node.js** que classifica a idade de um usuário, determinando se ele é criança, adolescente, adulto ou idoso.
-    * **O que eu aprendi:** Este projeto me ajudou a entender conceitos básicos de lógica de programação, como estruturas de controle de fluxo (`if/else`).
-
-* **Filtro de Conteúdo Sensível**
-    * **Descrição:** Um pequeno projeto em **JavaScript** que analisa comentários em busca de conteúdo sensível. Ele verifica se as palavras correspondem a uma lista pré-definida.
-    * **O que eu aprendi:** Este foi meu primeiro contato com a validação de dados em strings. Pretendo evoluir este projeto para usar uma **API**, eliminando a necessidade de atualizar a lista de palavras manualmente e praticando a integração com serviços externos.
-
+### Outros conhecimentos
+- JavaScript (Node.js)
+- C
+- Git & GitHub
+- APIs REST
+- Lógica de programação
 
 ---
+
+##  Projeto principal
+
+# 🌾 AgroCore
+
+Sistema full stack em desenvolvimento voltado para gerenciamento agrícola.
+
+Atualmente estou desenvolvendo o back-end utilizando **Python, Django e Django REST Framework**, focando na construção da API, autenticação, modelagem de dados e organização da arquitetura do sistema.
+
+O projeto também contará futuramente com um front-end próprio para gerenciamento e visualização das informações.
+
+### 🔧 Funcionalidades em desenvolvimento
+- Cadastro de fazendas
+- Sistema de autenticação
+- API REST
+- Estruturação do banco de dados
+- Organização de entidades e serializers
+
+### 📚 O que estou aprendendo com o projeto
+- Desenvolvimento back-end
+- Estruturação de APIs REST
+- Arquitetura de sistemas
+- Modelagem de banco de dados
+- Organização de projetos reais
+- Boas práticas com Django
+- Versionamento com Git
+
+---
+
+## 🎯 Objetivos atuais
+
+- Evoluir no desenvolvimento full stack
+- Aprofundar conhecimentos em Python
+- Aprender mais sobre arquitetura back-end
+- Estudar cibersegurança
+- Construir projetos reais e escaláveis
+- Conquistar minha primeira oportunidade na área de tecnologia
 
 ### 🌐 Conecte-se comigo
 
