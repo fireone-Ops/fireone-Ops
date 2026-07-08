@@ -14,7 +14,7 @@ Atualmente estou focado no ecossistema Python, estudando desenvolvimento de APIs
 
 ### Outros conhecimentos
 - JavaScript (Node.js)
-- C
+-React
 - Git & GitHub
 - APIs REST
 - Lógica de programação
