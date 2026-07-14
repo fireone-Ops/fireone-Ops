@@ -23,6 +23,15 @@
 - React
 - Node.JsS
 
+
+---
+
+### :small_orange_diamond: Estatísticas do GitHub
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireone-Ops&theme=tokyonight)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fireone-Ops&theme=tokyonight)
+
 ---
 
 
@@ -36,13 +45,3 @@
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </p>
-
----
-
-### :small_orange_diamond: Estatísticas do GitHub
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireone-Ops&theme=tokyonight)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fireone-Ops&theme=tokyonight)
-
-
