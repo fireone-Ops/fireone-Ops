@@ -3,7 +3,7 @@
 ### Estudante de Engenharia de Software apaixonado por backend, inteligência artificial e infraestrutura. Construindo soluções para problemas reais e aprendendo algo novo todos os dias, sem abrir mão de uma boa comida goiana.
 ---
 
-###:small_orange_diamond: Tecnologias e estudos atuais
+### :small_orange_diamond: Tecnologias e estudos atuais
 
 ###:small_red_triangle_down:  Back-end
 - Python
