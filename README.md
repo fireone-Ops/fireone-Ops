@@ -26,7 +26,7 @@
 ---
 
 
-### small_orange_diamond: Conecte-se comigo
+### :small_orange_diamond: Conecte-se comigo
 
 <p align="left">
     <a href="https://www.linkedin.com/in/davisousavilela">
