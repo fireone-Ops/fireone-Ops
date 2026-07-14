@@ -3,19 +3,19 @@
 ### Estudante de Engenharia de Software apaixonado por backend, inteligência artificial e infraestrutura. Construindo soluções para problemas reais e aprendendo algo novo todos os dias, sem abrir mão de uma boa comida goiana.
 ---
 
-:small_orange_diamond: ## Tecnologias e estudos atuais
+###:small_orange_diamond: Tecnologias e estudos atuais
 
-:small_red_triangle_down: ### Back-end
+###:small_red_triangle_down:  Back-end
 - Python
 - Django
 - Django REST Framework
 
-:small_red_triangle_down: ### Front-End
+###:small_red_triangle_down: Front-End
 - JavaScript
 - CSS
 - HTML
 
-:small_red_triangle_down: ### Outros conhecimentos
+###:small_red_triangle_down: Outros conhecimentos
 - Git & GitHub
 - APIs REST
 - Lógica de programação
@@ -26,7 +26,7 @@
 ---
 
 
-:small_orange_diamond: ###  Conecte-se comigo
+###:small_orange_diamond: Conecte-se comigo
 
 <p align="left">
     <a href="https://www.linkedin.com/in/davisousavilela">
@@ -39,7 +39,7 @@
 
 ---
 
-:small_orange_diamond: ###  Estatísticas do GitHub
+###:small_orange_diamond: Estatísticas do GitHub
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireone-Ops&theme=tokyonight)
 
