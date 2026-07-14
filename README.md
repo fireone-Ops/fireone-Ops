@@ -1,64 +1,32 @@
-# Olá, sou Davi 👋
+# Olá, sou Davi 
 
-💻 Desenvolvedor em formação apaixonado por tecnologia, back-end e cibersegurança.  
-Atualmente estou focado no ecossistema Python, estudando desenvolvimento de APIs, arquitetura de sistemas e automações.
-
+### Estudante de Engenharia de Software apaixonado por backend, inteligência artificial e infraestrutura. Construindo soluções para problemas reais e aprendendo algo novo todos os dias, sem abrir mão de uma boa comida goiana.
 ---
 
-## 🚀 Tecnologias e estudos atuais
+:small_orange_diamond: ## Tecnologias e estudos atuais
 
-### Back-end
+:small_red_triangle_down: ### Back-end
 - Python
 - Django
 - Django REST Framework
 
-### Outros conhecimentos
-- JavaScript (Node.js)
--React
+:small_red_triangle_down: ### Front-End
+- JavaScript
+- CSS
+- HTML
+
+:small_red_triangle_down: ### Outros conhecimentos
 - Git & GitHub
 - APIs REST
 - Lógica de programação
+- Banco de Dados
+- React
+- Node.JsS
 
 ---
 
-##  Projeto principal
 
-# 🌾 AgroCore
-
-Sistema full stack em desenvolvimento voltado para gerenciamento agrícola.
-
-Atualmente estou desenvolvendo o back-end utilizando **Python, Django e Django REST Framework**, focando na construção da API, autenticação, modelagem de dados e organização da arquitetura do sistema.
-
-O projeto também contará futuramente com um front-end próprio para gerenciamento e visualização das informações.
-
-### 🔧 Funcionalidades em desenvolvimento
-- Cadastro de fazendas
-- Sistema de autenticação
-- API REST
-- Estruturação do banco de dados
-- Organização de entidades e serializers
-
-### 📚 O que estou aprendendo com o projeto
-- Desenvolvimento back-end
-- Estruturação de APIs REST
-- Arquitetura de sistemas
-- Modelagem de banco de dados
-- Organização de projetos reais
-- Boas práticas com Django
-- Versionamento com Git
-
----
-
-## 🎯 Objetivos atuais
-
-- Evoluir no desenvolvimento full stack
-- Aprofundar conhecimentos em Python
-- Aprender mais sobre arquitetura back-end
-- Estudar cibersegurança
-- Construir projetos reais e escaláveis
-- Conquistar minha primeira oportunidade na área de tecnologia
-
-### 🌐 Conecte-se comigo
+:small_orange_diamond: ###  Conecte-se comigo
 
 <p align="left">
     <a href="https://www.linkedin.com/in/davisousavilela">
@@ -71,7 +39,7 @@ O projeto também contará futuramente com um front-end próprio para gerenciame
 
 ---
 
-### 📊 Estatísticas do GitHub
+:small_orange_diamond: ###  Estatísticas do GitHub
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fireone-Ops&theme=tokyonight)
 
